@@ -1,23 +1,23 @@
-#👋 Kia Ora! I’m Sean Gibbons-Lawrie
-##Full Stack Software Developer
-###👀 I’m interested in Game Development and Real World Applications
+# 👋 Kia Ora! I’m Sean Gibbons-Lawrie
+## Full Stack Software Developer
+### 👀 I’m interested in Game Development and Real World Applications
 
-###🌱 I’m currently learning C#, React, JWS
+### 🌱 I’m currently learning C#, React, JWS
 
-###📫 Reach me at: sgibbons745@gmail.com
+### 📫 Reach me at: sgibbons745@gmail.com
 
-###🔷 Connect with me on LinkedIn
+### 🔷 Connect with me on LinkedIn
 
-##Skills
-###Programming Languages:
+## Skills
+### Programming Languages:
 
 JavaScript, Typescript, HTML, CSS
-###Frameworks/Libraries:
+### Frameworks/Libraries:
 
 React, Angular
-###Other Skills:
+### Other Skills:
 
 MongoDB, Version Control (Git), RESTful API, Figma(UI/UX Design)
-###In Progress:
+### In Progress:
 
 Refining React, C#, JWS
