@@ -17,7 +17,7 @@ JavaScript, Typescript, HTML, CSS
 React, Angular
 ### Other Skills:
 
-MongoDB, Version Control (Git), RESTful API, Figma(UI/UX Design)
+MongoDB, Version Control (Git), RESTful APIs
 ### In Progress:
 
 Refining React, C#, JWS
