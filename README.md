@@ -14,10 +14,10 @@
 JavaScript, Typescript, HTML, CSS
 ### Frameworks/Libraries:
 
-React, Angular
+React, Angular, Next
 ### Other Skills:
 
-MongoDB, Version Control (Git), RESTful APIs
+MongoDB, SQL, Version Control (Git), RESTful APIs
 ### In Progress:
 
 Refining React, C#, JWS
